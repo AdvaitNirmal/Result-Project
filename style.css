@@ -1,0 +1,38 @@
+body {
+    background-color: lightblue;
+     font-family: 'Work Sans', sans-serif;
+    text-align: center; 
+
+}   
+
+table,
+th,
+tr,
+td {   
+    margin: auto;
+    border: 5px solid darkgreen;
+    border-spacing: 5px;
+    padding: 50px;    
+    font-size: 20px;
+}
+th {
+    background-color: yellow;
+    
+}
+td {
+    background-color: yellowgreen;
+}
+p {
+    color: magenta;
+    font-size:30px;
+}
+caption {
+    color: mediumblue;
+    text-align: center;
+    font-size: 30px;
+}
+    
+
+
+
+
